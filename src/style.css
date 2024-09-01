@@ -1,10 +1,11 @@
+
 body {
     background: #fff;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 a {
-    color: #096c47; 
+    color: #096c47;; 
 }
 
 .container {
@@ -21,7 +22,7 @@ h1 {
     font-weight: 800;
     font-size: 40px;
     line-height: 1.5;
-    color: #096c47;
+    color: #096c47;;
 }
 
 .form-container {
@@ -34,7 +35,7 @@ h1 {
 
 form {
     display: flex;
-    color:  #096c47; 
+    color: #096c47;
     
 }
 
@@ -70,10 +71,10 @@ form {
 
 .poem {
     font-size: 18px;
-    background-color: #d6f6d6;;
+    background-color: #096c47;
     padding: 30px;
     line-height: 1.5;
-    border-left: 8px solid #096c47;
+    border-left: 8px solid #d6f6d6;
     border-radius: 5px;
     box-shadow: 0px 20px 60px rgba(43, 57, 20, 0.1);
 }
